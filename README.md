@@ -11,18 +11,18 @@ The objective of this repository is to demonstrate practical knowledge of busine
 
 | File Name | Description | Format |
 | :--- | :--- | :--- |
-| `Task 1(1).png`, `Task 1(2).png` | Data connection and initial dataset visualization | Image |
-| `Task 2.pdf` | Detailed report creation and formatting | PDF |
-| `Task 3.pdf` | Advanced filtering, sorting, and conditional formatting | PDF |
-| `Task 4.pdf` | Data modeling and data module creation | PDF |
-| `task 5.pdf` | Interactive dashboard layout and design | PDF |
-| `Task 6.png` | Chart / Graph visualization sample | Image |
-| `Task 7 (1).png`, `Task 7 (2).png` | Drill-through reports and master-detail relationships | Image |
-| `Task 8(1).png`, `Task 8(2).png` | Calculated fields and custom metrics | Image |
-| `Task 9(1).png`, `Task 9(2).png` | Storyboard creation and presentation | Image |
-| `task 10.png` | AI Assistant insights and exploratory analysis | Image |
-| `Task 11.pdf` | Comprehensive final report export | PDF |
-| `Task 12.png` | Final dashboard screenshot | Image |
+| [Task 1(1).png](./Task%201(1).png), [Task 1(2).png](./Task%201(2).png) | Data connection and initial dataset visualization | Image |
+| [Task 2.pdf](./Task%202.pdf) | Detailed report creation and formatting | PDF |
+| [Task 3.pdf](./Task%203.pdf) | Advanced filtering, sorting, and conditional formatting | PDF |
+| [Task 4.pdf](./Task%204.pdf) | Data modeling and data module creation | PDF |
+| [task 5.pdf](./task%205.pdf) | Interactive dashboard layout and design | PDF |
+| [Task 6.png](./Task%206.png) | Chart / Graph visualization sample | Image |
+| [Task 7 (1).png](./Task%207%20(1).png), [Task 7 (2).png](./Task%207%20(2).png) | Drill-through reports and master-detail relationships | Image |
+| [Task 8(1).png](./Task%208(1).png), [Task 8(2).png](./Task%208(2).png) | Calculated fields and custom metrics | Image |
+| [Task 9(1).png](./Task%209(1).png), [Task 9(2).png](./Task%209(2).png) | Storyboard creation and presentation | Image |
+| [task 10.png](./task%2010.png) | AI Assistant insights and exploratory analysis | Image |
+| [Task 11.pdf](./Task%2011.pdf) | Comprehensive final report export | PDF |
+| [Task 12.png](./Task%2012.png) | Final dashboard screenshot | Image |
 
 ---
 
@@ -35,4 +35,4 @@ The objective of this repository is to demonstrate practical knowledge of busine
 ---
 
 ## 👤 Author
-- **Sheebalakshmi** - https://github.com/Sheebalakshmi
+- **Sheebalakshmi** - [GitHub Profile](https://github.com/Sheebalakshmi)thub.com/Sheebalakshmi
