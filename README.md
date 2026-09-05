@@ -35,4 +35,4 @@ The objective of this repository is to demonstrate practical knowledge of busine
 ---
 
 ## 👤 Author
-- **Sheebalakshmi** - [GitHub Profile](https://github.com/Sheebalakshmi)thub.com/Sheebalakshmi
+- **Sheebalakshmi** - https://github.com/Sheebalakshmi
